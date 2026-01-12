@@ -1,6 +1,6 @@
 # NestJS Backend Architecture Project
 
-[![Docker Compose CI](https://github.com/fifocode/wimm-apis/actions/workflows/docker_compose.yml/badge.svg)](https://github.com/fifocode/wimm-apis/actions/workflows/docker_compose.yml)
+[![Docker Compose CI](https://github.com/afteracademy/wimm-apis/actions/workflows/docker_compose.yml/badge.svg)](https://github.com/afteracademy/wimm-apis/actions/workflows/docker_compose.yml)
 
 ## WhereIsMyMotivation
 
@@ -44,12 +44,12 @@ You can track your happiness level and write down daily journals. You can also s
 Using this app can bring a little bit of happiness and energy to live an inspired life.
 
 ## Read the Article to understand this project
-[Mastering NestJS — Building an Effective REST API Backend](https://fifocode.com/article/mastering-nestjs-building-an-effective-rest-api-backend)
+[Mastering NestJS — Building an Effective REST API Backend](https://afteracademy.com/article/mastering-nestjs-building-an-effective-rest-api-backend)
 
 ## Android App using this backend
 ![Screenshot-Light](.resources/documentations/assets/display-light.png)
 
-The Android App using this backend is also open-sourced. You can find the project here: [Modern Android Development - WhereIsMyMotivation](https://github.com/fifocode/wimm-android-app)
+The Android App using this backend is also open-sourced. You can find the project here: [Modern Android Development - WhereIsMyMotivation](https://github.com/afteracademy/wimm-android-app)
 
 ## Request-Response Flow
 
@@ -61,7 +61,7 @@ vscode is the recommended editor - dark theme
 ### Get the repo 
 ```bash
 # clone repository recursively
-git clone https://github.com/fifocode/wimm-apis.git --recursive
+git clone https://github.com/afteracademy/wimm-apis.git --recursive
 ```
 
 ### Install libraries
@@ -130,15 +130,15 @@ $ npm run test:cov
 ## Minimalistic version of this project
 If you want to use plain Express.js to create the same project explore the Minimalistic version of this project
 
-[Minimalistic Backend Development - WhereIsMyMotivation](https://github.com/fifocode/wimm-apis-minimalistic)
+[Minimalistic Backend Development - WhereIsMyMotivation](https://github.com/afteracademy/wimm-apis-minimalistic)
 
 ## Find this project useful ? :heart:
 * Support it by clicking the :star: button on the upper right of this page. :v:
 
-## More on YouTube channel - fifocode
-Subscribe to the YouTube channel `fifocode` for understanding the concepts used in this project:
+## More on YouTube channel - AfterAcademy
+Subscribe to the YouTube channel `AfterAcademy` for understanding the concepts used in this project:
 
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@fifocode)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@afteracad)
 
 ## Contribution
 Please feel free to fork it and open a PR.
