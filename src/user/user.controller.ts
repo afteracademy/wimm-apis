@@ -9,7 +9,7 @@ import {
 import { UserService } from './user.service';
 import { ProtectedRequest } from '../core/http/request';
 import { UserDto } from './dto/user.dto';
-import { UpdateProfileDto } from './dto/upadte-profile.dto';
+import { UpdateProfileDto } from './dto/update-profile.dto';
 
 @Controller('profile')
 export class UserController {
