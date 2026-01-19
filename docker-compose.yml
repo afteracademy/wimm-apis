@@ -36,7 +36,7 @@ services:
 
   mongo:
     # To create this service, Compose will pull the mongo
-    image: mongo:8.0.9
+    image: mongo:8.0.17
     container_name: wimm-apis-mongo
     restart: unless-stopped
     # This tells Compose that we would like to add environment variables
